@@ -1,2 +1,2 @@
-versao=1.1.4
+versao=1.1.5
 url=https://raw.githubusercontent.com/adrianllucero/vitalis-updater/main/update.zip
